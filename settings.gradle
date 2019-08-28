@@ -1,1 +1,1 @@
-include ':materialintro', ':sample'
+include ':materialintro'
